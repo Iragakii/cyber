@@ -1,0 +1,14 @@
+.text{
+    color: red;
+   
+  }
+#page {
+    background-image: url(wave.jpg);
+    height: 100vh;
+    width: 100%;
+    /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+}
+
